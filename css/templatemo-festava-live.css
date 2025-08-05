@@ -4,11 +4,18 @@ TemplateMo 583 Festava Live
 
 https://templatemo.com/tm-583-festava-live
 
-*/
+  --white-color: #fdf3e9;
+  --primary-color: #f8cb2e;
+  --secondary-color: #ffbb00;
+  --section-bg-color: #fdf3e9;
+  --custom-btn-bg-color: #ffbb00;
+  --custom-btn-bg-hover-color: #c01f27;
+  --dark-color: #0c2340;
+  --p-color: #717275;
+  --border-color: #7fffd4;
+  --link-hover-color: #b22727;
 
-/*---------------------------------------
-  CUSTOM PROPERTIES ( VARIABLES )             
------------------------------------------*/
+*/
 :root {
   --white-color: #fdf3e9;
   --primary-color: #f8cb2e;
@@ -281,7 +288,7 @@ strong {
   CUSTOM ICON COLOR               
 -----------------------------------------*/
 .custom-icon {
-  color: var(--secondary-color);
+  color: var(--dark-color);
 }
 
 /*---------------------------------------
@@ -361,16 +368,6 @@ strong {
 .sticky-wrapper.is-sticky .navbar {
   background-color: var(--dark-color);
 }
-
-/* .sticky-wrapper.is-sticky .navbar {
-  background-color: #f0f8ff;
-}
-
-.sticky-wrapper.is-sticky .navbar a,
-.sticky-wrapper.is-sticky .navbar .nav-link,
-.sticky-wrapper.is-sticky .navbar-brand {
-  color: var(--dark-color);
-} */
 
 .navbar {
   background: transparent;
