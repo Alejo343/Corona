@@ -288,6 +288,9 @@ strong {
   CUSTOM ICON COLOR               
 -----------------------------------------*/
 .custom-icon {
+  color: var(--secondary-color);
+}
+.custom-icon-person {
   color: var(--dark-color);
 }
 
