@@ -827,14 +827,14 @@ strong {
   background-color: var(--secondary-color);
   background-image: url("../images/nainoa-shizuru-NcdG9mK3PBY-unsplash.jpg");
   background-repeat: no-repeat;
-  margin-bottom: 70px;
+  /* margin-bottom: 70px; */
   padding-top: 30px;
   padding-bottom: 30px;
 }
 
 .site-footer-bottom {
   border-top: 1px solid #1f1c1c;
-  margin-top: 60px;
+  /* margin-top: 60px; */
 }
 
 .site-footer-title {
